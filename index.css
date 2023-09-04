@@ -1,0 +1,34 @@
+﻿.BSDESCRIP{
+    color:cadetbluel;
+    font-size:60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:inherit;
+}
+
+.chuya{
+    color:coral;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:double;
+}
+
+.poe{
+    color:rosybrown;
+    font-size:20px;
+    font-family:Algerian;
+    border:initial;
+}
+
+.fyodor {
+    color:plum;
+    font-size:20px;
+    font-family:'Agency FB';
+    border:dotted;
+}
+
+.dazai{
+    color:burlywood;
+    font-size:20px;
+    font-family:Algerian;
+    border:groove;
+}
